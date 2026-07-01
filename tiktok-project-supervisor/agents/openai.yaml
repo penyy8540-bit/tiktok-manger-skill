@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok Project Supervisor"
+  short_description: "TikTok Shop supervisor diagnosis framework"
+  default_prompt: "Use $tiktok-project-supervisor to diagnose a TikTok Shop project and propose supervisor-level priorities."
+
+policy:
+  allow_implicit_invocation: true
